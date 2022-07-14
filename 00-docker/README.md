@@ -44,6 +44,8 @@ Puedes crear un SO con tus propias dependencias:
 - python3
 - nmap
 - john
+- metasploit
+- lynis
 - ...
 
 
